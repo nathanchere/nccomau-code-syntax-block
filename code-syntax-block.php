@@ -2,10 +2,11 @@
 /**
  * Plugin Name:  Code Syntax Block (with Server-Side Highlighting)
  * Plugin URI:   https://github.com/westonruter/code-syntax-block
+ * GitHub Plugin URI: nathanchere/nccomau-code-syntax-block
  * Description:  A plugin to extend Gutenberg code block with syntax highlighting.
  * Version:      1.0.0
- * Author:       Weston Ruter
- * Author URI:   https://weston.ruter.net/
+ * Author:       Nathan Chere
+ * Author URI:   https://nathanchere.com.au/
  * License:      GPL2
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:  code-syntax-block

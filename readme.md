@@ -1,7 +1,6 @@
+# Server-Side Code Syntax Highlighting Block
 
-	# Server-Side Code Syntax Highlighting Block
-
-A WordPress plugin which extends Gutenberg by adding *server-side* syntax highlighting to the WordPress core code block. Forked from [westonruter's fork](https://github.com/westonruter/code-syntax-block) of [code-syntax-block](https://github.com/mkaz/code-syntax-block) to suit my own needs.
+A WordPress plugin which extends Gutenberg by adding *server-side* syntax highlighting to the WordPress core code block. Forked from [westonruter's fork](https://github.com/westonruter/code-syntax-block) of [code-syntax-block](https://github.com/mkaz/code-syntax-block) with changes to suit my own needs for my blog at nathanchere.com.au
 
 Example:
 

@@ -1,15 +1,9 @@
 <?xml version="1.0"?>
-<ruleset name="WordPress Coding Standards for Code Syntax Block">
+<ruleset name="WordPress Coding Standards for Nccomau Code Syntax Block">
 
 	<rule ref="WordPress-Core" />
 	<rule ref="WordPress-Docs" />
 	<rule ref="WordPress-Extra" />
-
-	<rule ref="WordPress.WP.I18n">
-		<properties>
-			<property name="text_domain" value="code-syntax-block" />
-		</properties>
-	</rule>
 
 	<!-- Include sniffs for PHP cross-version compatibility. -->
 	<config name="testVersion" value="5.4-99.0"/>

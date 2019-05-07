@@ -118,7 +118,7 @@ function register_frontend_assets()
      * @since 1.0.0
      * @param string $style Style.
      */
-    $style = apply_filters('code_syntax_block_style', 'default');
+    $style = 'nord';
 
     $default_style_path = sprintf('vendor/scrivo/highlight.php/styles/%s.css', sanitize_key($style));
     wp_register_style(

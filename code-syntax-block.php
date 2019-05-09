@@ -4,7 +4,7 @@
  * Plugin URI:   https://github.com/nathanchere/nccomau-code-syntax-block
  * GitHub Plugin URI: nathanchere/nccomau-code-syntax-block
  * Description:  Gutenblock for displaying source code with syntax highlighting
- * Version:      1.0.0
+ * Version:      1.0.1
  * Author:       Nathan Chere
  * Author URI:   https://nathanchere.com.au/
  * License:      GPL2

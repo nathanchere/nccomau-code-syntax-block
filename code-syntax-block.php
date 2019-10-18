@@ -55,7 +55,7 @@ function enqueue_editor_assets()
     );
 
     $handle = 'code-syntax-block';
-    $block_path = '/code-syntax-block.js';
+    $block_path = '/csb/code-syntax-block.js';
     wp_enqueue_script(
         $handle,
         plugins_url($block_path, __FILE__),
